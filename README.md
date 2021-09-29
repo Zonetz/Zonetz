@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zonetz
-- 👀 I’m interested in all things netwroking and securing it-systems
+- 👀 I’m interested in all things netwroking, securing it-systems and python code
 - 🌱 I’m currently learning every day
 - 💞️ I’m looking to collaborate on cybersecurity
 - 📫 You reach me here and there
